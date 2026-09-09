@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Rakhi Gaud — Engineering Student" width="100%" />
+  <img src="./banner.png" alt="Rakhi Gaud — Engineering Student" width="100%" />
 </p>
 
 <h3 align="center">AI Engineer & Backend Developer — ML workflows, REST APIs, and full-stack cloud deployments</h3>
