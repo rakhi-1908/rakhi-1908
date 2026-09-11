@@ -35,21 +35,6 @@ class Rakhi:
         )
 ```
 
----
-
-### `skills.json`
-
-```json
-{
-  "languages":     ["Python", "C", "C++", "JavaScript", "SQL"],
-  "web_and_mobile":["HTML", "CSS", "Flask", "MySQL", "Android Studio", "Flutter"],
-  "ai_and_iot":    ["Machine Learning", "Computer Vision", "Blockchain", "Sensors", "Pygame", "Firebase"],
-  "design_tools":  ["Figma", "Canva", "Krita", "Inkscape", "Photoshop"],
-  "soft_skills":   ["Public Speaking", "Communication", "Teamwork", "Leadership", "Problem Solving"]
-}
-```
-
----
 
 ### `projects/`
 
@@ -73,51 +58,6 @@ Personalised outfit recommendations based on body type and preferences, with ful
 Pygame chess implementation with a Minimax-powered AI opponent, drag-and-drop play, custom themes, and sound effects.
 `Python` `Pygame` `Minimax`
 
-**`air_control/`** `shipped` — **Air Pollution Control Devices**
-Mobile app for monitoring/controlling air pollution via smart devices like drones — real-time drone control, GPS mapping, dust-level monitoring, and battery status.
-`Android Studio` `IoT` `GPS`
-
-**`air_data/`** `shipped` — **Air Pollution Data Analysis**
-Relational database analysing air pollution trends from real-time CPCB data, with SQL queries surfacing seasonal variation and insight.
-`MySQL` `SQL` `Data Analysis`
-
----
-
-### `experience.log`
-
-```
-[1 year]     NSS — Co-Social Media & Creative Head
-              National Service Scheme
-              Managed NSS's social media presence, designed event
-              posters, led creative efforts for awareness campaigns.
-
-[workshops]  Drone Technology Seminar   — assembly, wiring, aerodynamics
-              Jagrani Training           — Vedic lit, e-magazine, public speaking
-              Microbit Workshop          — BBC micro:bit, robotics, embedded systems
-
-[certs]      AI Fundamentals — IBM SkillsBuild
-              Introduction to UI/UX — Infosys Springboard
-              Introduction to Generative AI — Google Skill Boost
-              AI Agents Intensive — Kaggle & Google
-```
-
----
-
-### `contact.sh`
-
-```bash
-$ status --current
-Open to internships and collaborations in AI, hardware, and full-stack
-development. If something here is interesting to you, send a message —
-I read everything myself.
-
-$ contact --list
-email     rakhigaud1908@gmail.com
-linkedin  https://bit.ly/3DSm4cW
-github    @rakhi-1908
-portfolio https://rakhi-1908.github.io/Rakhi-Resume/
-```
-
 ---
 
 ### 📊 GitHub Stats
@@ -127,10 +67,6 @@ portfolio https://rakhi-1908.github.io/Rakhi-Resume/
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhi-1908&layout=compact&hide_border=true&bg_color=1a0505&title_color=FFCC33&text_color=f5f5f5&cache_seconds=86400" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rakhi-1908&hide_border=true&background=1a0505&stroke=FFCC33&ring=FFCC33&fire=FFCC33&currStreakLabel=FFCC33&sideLabels=f5f5f5&currStreakNum=f5f5f5&sideNums=f5f5f5&dates=f5f5f5" />
-</p>
-
 ---
 
-<p align="center"><i>© 2026 Rakhi Gaud — compiled with Python, patience and a little chai</i></p>
+<p align="center"><i>© 2026 Rakhi Gaud — compiled with Python, patience and a little stress</i></p>
