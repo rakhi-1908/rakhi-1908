@@ -120,12 +120,8 @@ portfolio https://rakhi-1908.github.io/Rakhi-Resume/
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhi-1908&show_icons=true&hide_border=true&bg_color=1a0505&title_color=FFCC33&icon_color=FFCC33&text_color=f5f5f5&count_private=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhi-1908&layout=compact&hide_border=true&bg_color=1a0505&title_color=FFCC33&text_color=f5f5f5&cache_seconds=86400" />
-</p>
+📊 GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhi-1908&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhi-1908&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakhi-1908&theme=tokyonight&hide_border=true" alt="streak stats" /> </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rakhi-1908&hide_border=true&background=1a0505&stroke=FFCC33&ring=FFCC33&fire=FFCC33&currStreakLabel=FFCC33&sideLabels=f5f5f5&currStreakNum=f5f5f5&sideNums=f5f5f5&dates=f5f5f5" />
