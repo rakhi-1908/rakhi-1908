@@ -61,11 +61,7 @@ Pygame chess implementation with a Minimax-powered AI opponent, drag-and-drop pl
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhi-1908&show_icons=true&hide_border=true&bg_color=1a0505&title_color=FFCC33&icon_color=FFCC33&text_color=f5f5f5&count_private=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhi-1908&layout=compact&hide_border=true&bg_color=1a0505&title_color=FFCC33&text_color=f5f5f5&cache_seconds=86400" />
-</p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhi-1908&show_icons=true&hide_border=true&bg_color=1a0505&title_color=FFCC33&icon_color=FFCC33&text_color=f5f5f5&count_private=true&cache_seconds=86400" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhi-1908&layout=compact&hide_border=true&bg_color=1a0505&title_color=FFCC33&text_color=f5f5f5&cache_seconds=86400" /> </p>
 
 ---
 
