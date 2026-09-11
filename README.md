@@ -1,112 +1,136 @@
 <p align="center">
-  <img src="./banner.png" alt="Rakhi Gaud — Engineering Student" width="100%" />
-</p>
-
-<h3 align="center">AI Engineer & Backend Developer — ML workflows, REST APIs, and full-stack cloud deployments</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFCC33&center=true&vCenter=true&width=650&lines=B.Tech+AI+%40+UMIT%2C+SNDT+Women's+University;Minor+in+Augmented+%26+Virtual+Reality;Building+Votify+%E2%80%94+Decentralized+Electoral+Monitoring;Building+DustVigil+%E2%80%94+Autonomous+Air+Pollution+Pod" alt="Typing SVG" />
+  <img src="./banner.svg" alt="Rakhi Gaud — Engineering Student" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rakhi-gaud"><img src="https://img.shields.io/badge/-LinkedIn-3a0b0b?style=for-the-badge&logo=linkedin&logoColor=FFCC33" /></a>
-  <a href="mailto:rakhigaud1908@gmail.com"><img src="https://img.shields.io/badge/-Email-3a0b0b?style=for-the-badge&logo=gmail&logoColor=FFCC33" /></a>
-  <img src="https://komarev.com/ghpvc/?username=rakhi-1908&label=Profile%20Views&color=3a0b0b&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFCC33&center=true&vCenter=true&width=650&lines=B.Tech+AI+%40+UMIT%2C+SNDT+Women's+University;engineering+my+way+through+AI+%26+hardware;currently+building+Votify+%26+DustVigil" alt="Typing SVG" />
 </p>
 
----
-
-### 🧭 About Me
-
-- 🎓 B.Tech in **Artificial Intelligence** (Minor: AR/VR) @ **Usha Mittal Institute of Technology, S.N.D.T Women's University** — CGPA 8.66/10
-- 🤖 AI Engineer & Backend Developer — machine learning workflows, REST APIs, predictive modeling, and decentralized architectures
-- 🏆 Top 100 team (out of 6,000+ nationwide) at **CIIA 2026**, and 5th Prize (₹10,000) at **Innovation Mahakumbh 2025**
-- 🗳️ Currently researching **Votify** — a blockchain + AI electoral monitoring ecosystem
-- 🌫️ Currently researching **DustVigil** — an IoT-based autonomous air pollution control pod
-- 📢 Social Media, Creative & Capturer Head, NSS UMIT Council (2024–2026)
-- 📫 rakhigaud1908@gmail.com
-
----
-
-### 🛠️ Tech & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-2b0a0a?style=for-the-badge&logo=python&logoColor=FFCC33" />
-  <img src="https://img.shields.io/badge/-C++-2b0a0a?style=for-the-badge&logo=c%2B%2B&logoColor=FFCC33" />
-  <img src="https://img.shields.io/badge/-SQL-2b0a0a?style=for-the-badge&logo=mysql&logoColor=FFCC33" />
-  <img src="https://img.shields.io/badge/-Flutter-2b0a0a?style=for-the-badge&logo=flutter&logoColor=FFCC33" />
-  <img src="https://img.shields.io/badge/-Flask-2b0a0a?style=for-the-badge&logo=flask&logoColor=FFCC33" />
-  <img src="https://img.shields.io/badge/-Firebase-2b0a0a?style=for-the-badge&logo=firebase&logoColor=FFCC33" />
-  <img src="https://img.shields.io/badge/-Vercel-2b0a0a?style=for-the-badge&logo=vercel&logoColor=FFCC33" />
-  <img src="https://img.shields.io/badge/-Scikit--Learn-2b0a0a?style=for-the-badge&logo=scikitlearn&logoColor=FFCC33" />
-  <img src="https://img.shields.io/badge/-Blockchain-2b0a0a?style=for-the-badge&logo=ethereum&logoColor=FFCC33" />
-  <img src="https://img.shields.io/badge/-Git-2b0a0a?style=for-the-badge&logo=git&logoColor=FFCC33" />
-  <img src="https://img.shields.io/badge/-Android_Studio-2b0a0a?style=for-the-badge&logo=androidstudio&logoColor=FFCC33" />
+<p align="center">
+  <img src="https://img.shields.io/badge/status-open_to_internships-2b0a0a?style=flat-square&labelColor=1a0505&color=FFCC33" />
+  <a href="https://bit.ly/3DSm4cW"><img src="https://img.shields.io/badge/-LinkedIn-2b0a0a?style=flat-square&logo=linkedin&logoColor=FFCC33" /></a>
+  <a href="mailto:rakhigaud1908@gmail.com"><img src="https://img.shields.io/badge/-Email-2b0a0a?style=flat-square&logo=gmail&logoColor=FFCC33" /></a>
+  <a href="https://rakhi-1908.github.io/Rakhi-Resume/"><img src="https://img.shields.io/badge/-Portfolio-2b0a0a?style=flat-square&logo=firefox&logoColor=FFCC33" /></a>
 </p>
 
----
+<br>
 
-### 🌀 Featured Projects
+### `home.py`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```python
+class Rakhi:
+    def __init__(self):
+        self.role     = "B.Tech Artificial Intelligence student"
+        self.school   = "Usha Mittal Institute of Technology, SNDT Women's University"
+        self.based_in = "Mumbai, India"
+        self.timeline = "2023 — 2027"
+        self.building = ["Votify", "DustVigil"]
 
-**🗳️ Votify** — Decentralized Electoral Monitoring Ecosystem
-`Blockchain` `Iris Recognition` `Python`
-Secure Python REST APIs for encrypted biometric authentication, a modular blockchain architecture with distributed ledgers for tamper-proof records, and a full-stack "Monitor Edition" dashboard for real-time anomaly tracking.
-
-</td>
-<td width="50%" valign="top">
-
-**🌫️ DustVigil** — IoT Telemetry & Air Quality Pipeline
-`Python` `MySQL` `IoT Sensors` `Flutter`
-Autonomous air pollution control pod with multi-stage HEPA filtration and algae-based CO₂ sequestration. Scalable IoT data pipeline, MySQL window-function aggregations for pollution hot-spot mapping, and an interactive Flutter dashboard. IEEE-format research paper.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🐾 PawHeal** — AI-Based Pet Medical Diagnosis
-`Flutter` `Python` `Flask` `Computer Vision`
-Real-time, image-based animal injury classification via a Flask REST API, with a location-based framework to surface nearby medical resources and contextual first-aid recommendations.
-
-</td>
-<td width="50%" valign="top">
-
-**👗 FashIcon** — ML-Powered Virtual Stylist
-`Scikit-Learn` `Flask` `Vercel`
-Personalized style recommendations (outfits, hairstyles, eyewear) from a Scikit-Learn classification pipeline, serialized with Joblib and deployed via a Flask backend on Vercel serverless.
-
-</td>
-</tr>
-</table>
-
-**📊 Air Pollution Data Analysis** — Relational database and complex SQL queries (filtering, aggregations, multi-table joins) mapping PM2.5/PM10 trends from real-time and historical CPCB data.
+    def bio(self):
+        return (
+            "I build AI-integrated apps and hardware-connected systems — "
+            "from a biometric election platform to an autonomous "
+            "pollution-control pod. I like projects where software has "
+            "to deal with the real, messy world."
+        )
+```
 
 ---
 
-### 🏆 Achievements & Certifications
+### `skills.json`
 
-- 🥇 Top 100 teams (out of 6,000+ nationwide) — **CIIA 2026**
-- 🏅 5th Prize (₹10,000) — **Innovation Mahakumbh 2025**, organized by SNDT Women's University
-- 📜 AI Agents Intensive Certification (Kaggle & Google)
-- 📜 AI Fundamentals (IBM SkillsBuild), Introduction to Generative AI (Google Cloud)
+```json
+{
+  "languages":     ["Python", "C", "C++", "JavaScript", "SQL"],
+  "web_and_mobile":["HTML", "CSS", "Flask", "MySQL", "Android Studio", "Flutter"],
+  "ai_and_iot":    ["Machine Learning", "Computer Vision", "Blockchain", "Sensors", "Pygame", "Firebase"],
+  "design_tools":  ["Figma", "Canva", "Krita", "Inkscape", "Photoshop"],
+  "soft_skills":   ["Public Speaking", "Communication", "Teamwork", "Leadership", "Problem Solving"]
+}
+```
+
+---
+
+### `projects/`
+
+**`votify/`** `in progress` — **Votify**
+Blockchain-based, biometric, geofenced election platform. Flutter frontend across seven core entities — voters, booths, candidates, a vote ledger, constituencies, and an AI alerting module — with biometric auth, geofence validation, and hash-chained vote integrity.
+`Flutter` `Blockchain` `System Design` `Biometrics`
+
+**`dustvigil/`** `research paper` — **DustVigil**
+Co-authored research on an autonomous air pollution control pod for construction sites, combining multi-stage HEPA filtration with algae-based CO₂ sequestration — implementation, setup, and mobile/web control.
+`IoT` `Research` `Sustainability`
+
+**`pawheal/`** `shipped` — **PawHeal — AI Pet First Aid**
+Identifies and manages minor injuries in street animals via AI-powered image analysis, with first-aid guidance and a nearby-vet locator.
+`Flutter` `Python` `Flask` `Firebase` `ML`
+
+**`stylist/`** `shipped` — **AI-Based Virtual Stylist**
+Personalised outfit recommendations based on body type and preferences, with full user registration/login for men and women.
+`Python` `Flask` `MySQL` `UI/UX`
+
+**`chess_ai/`** `shipped` — **Chess AI with Minimax**
+Pygame chess implementation with a Minimax-powered AI opponent, drag-and-drop play, custom themes, and sound effects.
+`Python` `Pygame` `Minimax`
+
+**`air_control/`** `shipped` — **Air Pollution Control Devices**
+Mobile app for monitoring/controlling air pollution via smart devices like drones — real-time drone control, GPS mapping, dust-level monitoring, and battery status.
+`Android Studio` `IoT` `GPS`
+
+**`air_data/`** `shipped` — **Air Pollution Data Analysis**
+Relational database analysing air pollution trends from real-time CPCB data, with SQL queries surfacing seasonal variation and insight.
+`MySQL` `SQL` `Data Analysis`
+
+---
+
+### `experience.log`
+
+```
+[1 year]     NSS — Co-Social Media & Creative Head
+              National Service Scheme
+              Managed NSS's social media presence, designed event
+              posters, led creative efforts for awareness campaigns.
+
+[workshops]  Drone Technology Seminar   — assembly, wiring, aerodynamics
+              Jagrani Training           — Vedic lit, e-magazine, public speaking
+              Microbit Workshop          — BBC micro:bit, robotics, embedded systems
+
+[certs]      AI Fundamentals — IBM SkillsBuild
+              Introduction to UI/UX — Infosys Springboard
+              Introduction to Generative AI — Google Skill Boost
+              AI Agents Intensive — Kaggle & Google
+```
+
+---
+
+### `contact.sh`
+
+```bash
+$ status --current
+Open to internships and collaborations in AI, hardware, and full-stack
+development. If something here is interesting to you, send a message —
+I read everything myself.
+
+$ contact --list
+email     rakhigaud1908@gmail.com
+linkedin  https://bit.ly/3DSm4cW
+github    @rakhi-1908
+portfolio https://rakhi-1908.github.io/Rakhi-Resume/
+```
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhi-1908&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhi-1908&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhi-1908&show_icons=true&hide_border=true&bg_color=1a0505&title_color=FFCC33&icon_color=FFCC33&text_color=f5f5f5&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhi-1908&layout=compact&hide_border=true&bg_color=1a0505&title_color=FFCC33&text_color=f5f5f5" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakhi-1908&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakhi-1908&hide_border=true&background=1a0505&stroke=FFCC33&ring=FFCC33&fire=FFCC33&currStreakLabel=FFCC33&sideLabels=f5f5f5&currStreakNum=f5f5f5&sideNums=f5f5f5&dates=f5f5f5" />
 </p>
 
 ---
 
-<p align="center"><i>✦ Turning raw data pipelines into live, production-ready systems.</i></p>
+<p align="center"><i>© 2026 Rakhi Gaud — compiled with Python, patience and a little chai</i></p>
