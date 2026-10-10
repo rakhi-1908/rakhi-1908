@@ -11,103 +11,39 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-open_to_internships-E01E37?style=for-the-badge&labelColor=1a0505&color=FFD73C&labelColor=1a0505" />
+  <img src="https://img.shields.io/badge/status-open_to_internships-E01E37?style=for-the-badge&labelColor=1a0505&color=FFD73C" />
   <a href="https://bit.ly/3DSm4cW"><img src="https://img.shields.io/badge/-LinkedIn-1a0505?style=for-the-badge&logo=linkedin&logoColor=FFD73C" /></a>
   <a href="mailto:rakhigaud1908@gmail.com"><img src="https://img.shields.io/badge/-Email-1a0505?style=for-the-badge&logo=gmail&logoColor=FFD73C" /></a>
   <a href="https://rakhi-1908.github.io/Rakhi-Resume/"><img src="https://img.shields.io/badge/-Portfolio-1a0505?style=for-the-badge&logo=firefox&logoColor=FFD73C" /></a>
 </p>
 
-<p align="center"><code>&lt;/&gt;</code> &nbsp;<b>AI</b>&nbsp; <code>{ }</code> &nbsp;<b>01</b></p>
+<br>
+
+<img src="./assets/h_home.svg" alt="home.py" width="100%" />
+
+<img src="./assets/home_code.svg" alt="class Rakhi: B.Tech Artificial Intelligence student at Usha Mittal Institute of Technology, SNDT Women's University, Mumbai, 2023-2027. Building Votify and DustVigil. I build AI-integrated apps and hardware-connected systems, from a biometric election platform to an autonomous pollution-control pod." width="100%" />
 
 <br>
 
-## 💥 `home.py`
+<img src="./assets/h_projects.svg" alt="projects/" width="100%" />
 
-```python
-class Rakhi:
-    def __init__(self):
-        self.role     = "B.Tech Artificial Intelligence student"
-        self.school   = "Usha Mittal Institute of Technology, SNDT Women's University"
-        self.based_in = "Mumbai, India"
-        self.timeline = "2023 — 2027"
-        self.building = ["Votify", "DustVigil"]
+<img src="./assets/p_votify.svg" alt="Votify (in progress): blockchain-based, biometric, geofenced election platform built with Flutter. Tags: Flutter, Blockchain, System Design, Biometrics" width="100%" />
 
-    def bio(self):
-        return (
-            "I build AI-integrated apps and hardware-connected systems — "
-            "from a biometric election platform to an autonomous "
-            "pollution-control pod. I like projects where software has "
-            "to deal with the real, messy world."
-        )
-```
+<img src="./assets/p_dustvigil.svg" alt="DustVigil (research paper): autonomous air pollution control pod for construction sites with HEPA filtration and algae-based CO2 sequestration. Tags: IoT, Research, Sustainability" width="100%" />
+
+<img src="./assets/p_pawheal.svg" alt="PawHeal, AI Pet First Aid (shipped): AI image analysis for minor injuries in street animals. Tags: Flutter, Python, Flask, Firebase, ML" width="100%" />
+
+<img src="./assets/p_stylist.svg" alt="AI-Based Virtual Stylist (shipped): personalised outfit recommendations by body type and preferences. Tags: Python, Flask, MySQL, UI/UX" width="100%" />
+
+<img src="./assets/p_chess_ai.svg" alt="Chess AI with Minimax (shipped): Pygame chess with a Minimax AI opponent. Tags: Python, Pygame, Minimax" width="100%" />
 
 <br>
 
-## ⚡ `projects/`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**`votify/`** · 🔴 *in progress*
-### Votify
-Blockchain-based, biometric, geofenced election platform. Flutter frontend across seven core entities — voters, booths, candidates, a vote ledger, constituencies, and an AI alerting module — with biometric auth, geofence validation, and hash-chained vote integrity.
-
-`Flutter` `Blockchain` `System Design` `Biometrics`
-
-</td>
-<td width="50%" valign="top">
-
-**`dustvigil/`** · 📄 *research paper*
-### DustVigil
-Co-authored research on an autonomous air pollution control pod for construction sites, combining multi-stage HEPA filtration with algae-based CO₂ sequestration — implementation, setup, and mobile/web control.
-
-`IoT` `Research` `Sustainability`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**`pawheal/`** · ✅ *shipped*
-### PawHeal — AI Pet First Aid
-Identifies and manages minor injuries in street animals via AI-powered image analysis, with first-aid guidance and a nearby-vet locator.
-
-`Flutter` `Python` `Flask` `Firebase` `ML`
-
-</td>
-<td width="50%" valign="top">
-
-**`stylist/`** · ✅ *shipped*
-### AI-Based Virtual Stylist
-Personalised outfit recommendations based on body type and preferences, with full user registration/login for men and women.
-
-`Python` `Flask` `MySQL` `UI/UX`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**`chess_ai/`** · ✅ *shipped*
-### Chess AI with Minimax
-Pygame chess implementation with a Minimax-powered AI opponent, drag-and-drop play, custom themes, and sound effects.
-
-`Python` `Pygame` `Minimax`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📊 GitHub Stats
+<img src="./assets/h_stats.svg" alt="GitHub Stats" width="100%" />
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhi-1908&show_icons=true&bg_color=1a0505&border_color=FFD73C&title_color=FFD73C&icon_color=E01E37&text_color=f5f5f5&ring_color=E01E37&count_private=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhi-1908&layout=compact&bg_color=1a0505&border_color=FFD73C&title_color=FFD73C&text_color=f5f5f5&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhi-1908&show_icons=true&bg_color=1a0505&border_color=FFD73C&title_color=FFD73C&icon_color=E01E37&text_color=FFE98A&ring_color=E01E37&count_private=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhi-1908&layout=compact&bg_color=1a0505&border_color=FFD73C&title_color=FFD73C&text_color=FFE98A&cache_seconds=86400" />
 </p>
 
----
-
-<p align="center"><i>© 2026 Rakhi Gaud — compiled with Python, patience and a little stress</i></p>
+<img src="./assets/footer.svg" alt="© 2026 Rakhi Gaud — compiled with Python, patience and a little stress" width="100%" />
