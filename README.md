@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="./assets/pfp.png" alt="Rakhi Gaud, pop-art portrait" width="190" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FFD73C&center=true&vCenter=true&width=650&lines=B.Tech+AI+%40+UMIT%2C+SNDT+Women's+University;engineering+my+way+through+AI+%26+hardware;currently+building+Votify+%26+DustVigil" alt="Typing SVG" />
 </p>
 
